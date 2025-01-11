@@ -21,7 +21,7 @@ Data was obtained from Amdari Consults. The data contain 8 features of different
 - Promotion
 - Day of week
 - Platform
-The sample size of the time series 264, it's such a small dataset, quite irregular with not palpable trend or seasonality.
+The sample size of the time series 264, it's such a small dataset, quite irregular with no palpable trend or seasonality.
 
 ## Libraries and Packages Used
 The project was written in python and in the data science python ecosystem. Pandas, Numpy,  and visualisation libraries such as matplotlib, seaborn, and plotly were used. in addition, statsmodels, scipy, 
