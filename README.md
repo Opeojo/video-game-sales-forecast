@@ -52,3 +52,9 @@ It will be interesting to see how traditional ML algorithms can be applied to ti
 # Contributors
 - @rene fonfude
 - @opeojo
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml)
+    
+
+
